@@ -1,0 +1,7 @@
+path: C:/SWE Lab Project/annotated_data_yolov8_v2
+train: images/train
+val: images/train
+
+#classes
+names:
+  0: license_plate
